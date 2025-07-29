@@ -25,7 +25,7 @@
 |----------|------------|----------|
 | [Docker + NGINX + UFW](https://github.com/Kislenky1/docker-nginx-ufw) | Docker, Linux, Firewall | Развертывание веб-сервера в контейнере с настройкой firewall |
 | [Prometheus + Grafana Monitoring](https://github.com/Kislenky1/Prometheus-Grafana-Monitoring-Stack) | Docker, Prometheus, Grafana | Система мониторинга Linux-сервера с визуализацией метрик |
-| [Shadowsocks VPN Installer](https://github.com/Kislenky1/shadowsocks) | Bash, Linux, Firewall | Скрипт для автоматической установки Shadowsocks-libev на VPS, генерации конфигурации и вывода QR-кода для подключения |
+| [Shadowsocks Bash Installer](https://github.com/Kislenky1/shadowsocks) | Bash, Linux, Firewall | Скрипт для автоматической установки Shadowsocks-libev на VPS, генерации конфигурации и вывода QR-кода для подключения |
 
 ---
 
